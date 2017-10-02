@@ -57,8 +57,8 @@ RL_WINDOW   = 15*60 # Rate limiting timeout
 SHAPES      = ['box', 'circle', 'rect', 'triangle-up', 'diamond', 'triangle-down']
 
 from collections import namedtuple
-Consumer = namedtuple('Consumer', 'key secret')
-Token = namedtuple('Token', 'key secret')
+Consumer = namedtuple('UeekzbHzC7UNyC78tdgLS4nZr', 'yk5SYogjNGP7NZMLv8EmLrtWNd5TqO4G106ID5F9neNoewCysm')
+Token = namedtuple('250978793-FQxnlD9MuAWA6NjZiOFk7CMFcZYaSJJTE0M5x3eB', 'sdW1UWu9yLBmMCQWTQbZzqZObfUwJg9dYMxPf9stNK7pJ')
 
 def _quote(text):
   return urllib.quote(text, '-._~')
